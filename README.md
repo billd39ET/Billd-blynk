@@ -1,5 +1,7 @@
 # Billd-blynk
 
+https://community.blynk.cc/t/mobile-wxr-station-bme280-ssd1306-display-blynk-9v-battery/46356?u=bill_donnelly
+
 Simple project that combines a number of widgets, sensor, display, WiFi Manager and Blynk. I’ve used it at work to monitor server room temp when we had a dodgy CRAC unit. (We now have networked monitoring/alerts, but this little beast with Blynk worked perfectly!)
 
 Battery or USB power, Temperature, Humidity & Atmospheric Pressure sensor with variable alarm threshold and Blynk alert. WiFi Manager to allow connection to unknown networks (mobility) without having to re-flash the device.
